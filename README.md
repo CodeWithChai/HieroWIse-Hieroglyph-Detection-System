@@ -18,7 +18,6 @@ For administrators, HieroWise includes an **admin login** feature. Administrator
 - 🛠️ **Admin panel** for monitoring and managing user activities.
 
 ## Source Code 📂:
-You can find the source code for this project on GitHub. Feel free to explore, contribute, or report issues! 🚀
 
 [Source Code Link: https://1024terabox.com/s/1qPtLBHzJ2aZ4OgMWb_zukA ]
 
